@@ -1,0 +1,10 @@
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\bin\Debug\VolkanSoruCevapEkleme.exe.config
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\bin\Debug\VolkanSoruCevapEkleme.exe
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\bin\Debug\VolkanSoruCevapEkleme.pdb
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\obj\Debug\VolkanSoruCevapEkleme.csprojAssemblyReference.cache
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\obj\Debug\VolkanSoruCevapEkleme.Form1.resources
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\obj\Debug\VolkanSoruCevapEkleme.Properties.Resources.resources
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\obj\Debug\VolkanSoruCevapEkleme.csproj.GenerateResource.cache
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\obj\Debug\VolkanSoruCevapEkleme.csproj.CoreCompileInputs.cache
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\obj\Debug\VolkanSoruCevapEkleme.exe
+C:\Users\Ozzy\Documents\Visual Studio 2019\Projects\VolkanSoruCevapEkleme\VolkanSoruCevapEkleme\obj\Debug\VolkanSoruCevapEkleme.pdb
